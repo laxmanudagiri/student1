@@ -1,4 +1,3 @@
-
 # Student#1
 Richard lalalalalaalalala
 alalkalal
@@ -10,3 +9,4 @@ Mike
 Nate was here
 Brad
 Shane
+more newbie moves here
